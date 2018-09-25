@@ -1,0 +1,23 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "models.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshhrycek/Blog-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshhrycek/Blog-API/issues"
+  },
+  "homepage": "https://github.com/joshhrycek/Blog-API#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
